@@ -1,0 +1,3 @@
+[submodule "third_parties/key-switches.pretty"]
+	path = third_parties/key-switches.pretty
+	url = https://github.com/siderakb/key-switches.pretty.git
