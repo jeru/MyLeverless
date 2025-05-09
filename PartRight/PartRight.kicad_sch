@@ -2132,6 +2132,46 @@
 			(embedded_fonts no)
 		)
 	)
+	(no_connect
+		(at 127 74.93)
+		(uuid "0bd4e077-4d2f-4536-aa94-4ed5170f63bd")
+	)
+	(no_connect
+		(at 127 67.31)
+		(uuid "1e461560-578f-4e3e-a860-b81de3db9254")
+	)
+	(no_connect
+		(at 127 54.61)
+		(uuid "25240aff-9a92-475e-bb7e-724da455984e")
+	)
+	(no_connect
+		(at 127 52.07)
+		(uuid "3f07d6b7-fb85-412e-b164-e4a82d046919")
+	)
+	(no_connect
+		(at 144.78 36.83)
+		(uuid "4f499a3d-c38a-474d-829d-cdba1c0582e2")
+	)
+	(no_connect
+		(at 127 64.77)
+		(uuid "5f100922-a882-4cf3-a107-e845427baf1a")
+	)
+	(no_connect
+		(at 127 69.85)
+		(uuid "6afbc978-664b-484c-ab8a-f06e3b2957f9")
+	)
+	(no_connect
+		(at 172.72 82.55)
+		(uuid "928f3fc1-03e8-4c03-af8a-597d9c386b59")
+	)
+	(no_connect
+		(at 127 72.39)
+		(uuid "9a12c9eb-89c4-4bc9-ac90-2b22a6abbd76")
+	)
+	(no_connect
+		(at 149.86 36.83)
+		(uuid "ce5bf358-3a27-408a-9833-10675fe9d109")
+	)
 	(global_label "SW3"
 		(shape passive)
 		(at 172.72 77.47 0)

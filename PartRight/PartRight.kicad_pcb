@@ -9817,7 +9817,7 @@
 			(roundrect_rratio 0.5)
 			(net 4 "unconnected-(A1-GPIO2-Pad4)")
 			(pinfunction "GPIO2")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "34acebff-6f31-433f-b04a-19beb03cca54")
 		)
 		(pad "5" smd roundrect
@@ -9827,7 +9827,7 @@
 			(roundrect_rratio 0.5)
 			(net 1 "unconnected-(A1-GPIO3-Pad5)")
 			(pinfunction "GPIO3")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "0459638f-9361-4d2c-b681-78e525c81f7f")
 		)
 		(pad "6" smd roundrect
@@ -9837,7 +9837,7 @@
 			(roundrect_rratio 0.5)
 			(net 5 "unconnected-(A1-GPIO4-Pad6)")
 			(pinfunction "GPIO4")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "42a559a8-6960-4dc6-9a23-a760f7ed3ebb")
 		)
 		(pad "7" smd roundrect
@@ -9847,7 +9847,7 @@
 			(roundrect_rratio 0.5)
 			(net 7 "unconnected-(A1-GPIO5-Pad7)")
 			(pinfunction "GPIO5")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "661a2c69-1427-4a58-884a-790c0d868def")
 		)
 		(pad "8" smd custom
@@ -9897,7 +9897,7 @@
 			(roundrect_rratio 0.5)
 			(net 8 "unconnected-(A1-GPIO6-Pad9)")
 			(pinfunction "GPIO6")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "90f4b958-02b9-4d56-ba21-fddcdb9ff596")
 		)
 		(pad "10" smd roundrect
@@ -10227,7 +10227,7 @@
 			(roundrect_rratio 0.5)
 			(net 3 "unconnected-(A1-RUN-Pad30)")
 			(pinfunction "RUN")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "323d2b7a-d5f9-411c-802a-c0651f4293d3")
 		)
 		(pad "31" smd roundrect
@@ -10307,7 +10307,7 @@
 			(roundrect_rratio 0.5)
 			(net 2 "unconnected-(A1-ADC_VREF-Pad35)")
 			(pinfunction "ADC_VREF")
-			(pintype "power_in")
+			(pintype "power_in+no_connect")
 			(uuid "2b416206-8e5b-41bd-859f-bb9fc6711696")
 		)
 		(pad "36" smd roundrect
@@ -10327,7 +10327,7 @@
 			(roundrect_rratio 0.5)
 			(net 9 "unconnected-(A1-3V3_EN-Pad37)")
 			(pinfunction "3V3_EN")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "ac06e51d-ba6e-42e0-9699-ce79794010d2")
 		)
 		(pad "38" smd custom
@@ -10377,7 +10377,7 @@
 			(roundrect_rratio 0.5)
 			(net 10 "unconnected-(A1-VSYS-Pad39)")
 			(pinfunction "VSYS")
-			(pintype "power_in")
+			(pintype "power_in+no_connect")
 			(uuid "d7036899-9f48-4b2a-9113-c52b287b6369")
 		)
 		(pad "40" smd roundrect
@@ -10387,7 +10387,7 @@
 			(roundrect_rratio 0.5)
 			(net 6 "unconnected-(A1-VBUS-Pad40)")
 			(pinfunction "VBUS")
-			(pintype "power_out")
+			(pintype "power_out+no_connect")
 			(uuid "63ba834e-f5b2-4592-b550-ea04d42130fb")
 		)
 		(zone
