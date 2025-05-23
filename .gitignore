@@ -4,3 +4,5 @@ fp-info-cache
 Gerber.zip
 Gerber/
 _autosave-*
+*.dxf~
+\#*.dxf
